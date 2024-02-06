@@ -1,4 +1,8 @@
 # Keylogger_Cryptography
-Keyloggers are programs that capture your key strokes. They can be used to keep logs of everything you press on the keyboard but on the flip side it can be used for malicious purposes as well.
+Keyloggers, although originally designed for legitimate purposes such as monitoring computer usage or assisting with troubleshooting, have indeed gained notoriety due to their potential for misuse. 
 
-The keylogger that I've made is a basic keylogger with not much functionality as the ones available in market today. It captures your keystrokes and saves them in a file "keylogger.txt".
+Efficiently records keystrokes and stores them in a file named "keylogger.txt." Developed a keylogger with original intentions for legitimate purposes. Acknowledged the potential for misuse that keyloggers have gained notoriety for.
+
+Designed for easy retrieval and analysis of recorded keystrokes.
+
+Emphasized the importance of recognizing ethical considerations when using keyloggers.
